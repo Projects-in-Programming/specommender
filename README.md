@@ -22,6 +22,7 @@ As a whole, this program provides a justified utility to the user.
 
 ## Code Organization
 `functions.py` - contains crutial functions required for the program to run like functions to get face shape and function to clean data
+
 `scrapper.py` - contains function to scrape the data 
 
 ## Requirements
