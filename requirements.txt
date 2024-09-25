@@ -1,0 +1,8 @@
+selenium
+beautifulsoup4
+requests
+pandas
+opencv-python
+inference-sdk
+astutils
+random
