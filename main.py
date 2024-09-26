@@ -14,6 +14,8 @@ if __name__ == '__main__':
     # Filter results based on price
     print(f"For your simplicity, we allow filtering by price. If you want to filter the results by price, press 1 and Enter otherwise perss 0 and Enter.")
     user_response = input("Enter your response and press either 1 or 0 and Enter:")
+
+    # Error checking, looping until user enters correct, required value
     while user_response not in ['1','0']:
         user_response = input("Enter your response and press either 1 or 0 and Enter:")
     
