@@ -10,4 +10,14 @@ This project scrapes the webpage [https://www.eyebuydirect.com/eyeglasses/](http
 
 4. **Respect for Intellectual Property**: The content on websites is often protected by copyright laws. Scraping and using this content without permission can infringe on intellectual property rights. I only scrape data that is publicly available and do not use it for commercial purposes without proper authorization. I give credit to the original sources where applicable.
 
+### Edited after 2nd Project was graded
+What data are Scraped:
+- Name of Glass
+- Price of Glass
+- Link to the product
+- Color choices available
+
+  All these data are publicly avialiable in the website. And they do not contain any personal information.
+
+
 By following the guidelines above, I conducted web scraping in an ethical and responsible manner.
