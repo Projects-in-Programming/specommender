@@ -17,7 +17,13 @@ What data are Scraped:
 - Link to the product
 - Color choices available
 
-  All these data are publicly avialiable in the website. And they do not contain any personal information.
+All these data are publicly avialiable in the website. And they do not contain any personal information.
 
+## Why are you scraping the data? 
+As the goal of the project is to recommend glasses to people based on the face shape, the project would need some data to make the recommendations.
+
+### What purposes will the data be used for?
+The data will be used only to recommend glasses to people based on the face shape. There will also be a link to the product on the original website. The data will be filtered based on user's query. 
+ 
 
 By following the guidelines above, I conducted web scraping in an ethical and responsible manner.
